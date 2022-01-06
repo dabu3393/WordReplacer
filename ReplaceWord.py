@@ -1,4 +1,4 @@
-# Create program that looks through a file and looks for "Michael". Replace all "Michael"'s with "Mike"
+# ReplaceWord.py replaces a word in the file and saves it in a new file. It aslo let's you know how many times it does it.
 
 word_count = 0
 string = input("Insert File Name: ")
